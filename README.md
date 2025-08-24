@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Akash Shit
 **A passionate Web Devloper || Electronics Engineer || Problem Solver**
 
-Email Me 👉 ✉️ **akashshit07503@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **akashshit541@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 **hello world,I am currently an undergraduate student of the batch 2023-27, pursuing B.tech in electronics and communication engineering at Techno Main Salt Lake college. 
 But aspiring software engineer seeking opportunities to learn and grow in the field of software development , I start to grow problem solving skill day by day as different different way.**

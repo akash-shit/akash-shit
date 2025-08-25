@@ -21,8 +21,8 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 ![](https://nirzak-streak-stats.vercel.app/?user=akash-shit&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-shit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akash-shit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Achievements
+![](https://github-profile-achievements.vercel.app/api/achievements?username=akash-shit)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

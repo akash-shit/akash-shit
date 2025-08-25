@@ -42,15 +42,20 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw"/>
 </p>
-  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 
-<img align="right" alt="coding" width="300" src="https://uploads-ssl.webflow.com/61a8ba1505a38d795044d7de/61aae1b7a4ba59ee6d39af82_scroll-coding.gif">
+<div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=akash-shit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+### ✍️ Random Dev Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-shit-680315289) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akash31_2004) 

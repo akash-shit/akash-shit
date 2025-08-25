@@ -1,3 +1,4 @@
+![logo](https://github.com/akash-shit/akash-shit/blob/main/github%20banner.jpg)
 # 💫 Hi 👋, I'm Akash Shit
 **A passionate Web Devloper || Electronics Engineer || Problem Solver**
 

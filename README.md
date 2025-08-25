@@ -21,9 +21,13 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 ![](https://nirzak-streak-stats.vercel.app/?user=akash-shit&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-shit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Achievements
-![](https://github-profile-achievements.vercel.app/api/achievements?username=akash-shit)
+## 🏆 GitHub Achievements  
 
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw"/>
+</p>
+  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

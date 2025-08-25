@@ -1,6 +1,6 @@
 ![logo](https://github.com/akash-shit/akash-shit/blob/main/github%20banner.jpg)
-# 💫 Hi 👋, I'm Akash Shit
-**A passionate Web Devloper || Electronics Engineer || Problem Solver**
+<h1 align="center">Hi 👋, I'm Akash Shit</h1>
+<h3 align="center">A passionate Software Engineer || Web Devloper || Electronics Engineer || Problem Solver</h3>
 
 Email Me 👉 ✉️ **akashshit541@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 

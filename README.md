@@ -11,13 +11,16 @@ Email Me 👉 ✉️ **akashshit541@gmail.com** For Collaboration/Project or Any
 But aspiring software engineer seeking opportunities to learn and grow in the field of software development , I start to grow problem solving skill day by day as different different way.**
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## ​ Socials:
+## ​🌐 accounts:
 
 <a href="https://linkedin.com/in/akash-shit-680315289" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
 <a href="https://x.com/akash31_2004" target="_blank">
   <img src="https://imgs.search.brave.com/_47QEAi8cqOAPmMDCV4XDJ0hb45th2neFe0TrItGulg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ5LzMvdHdpdHRl/ci14LWxvZ28tcG5n/X3NlZWtsb2dvLTQ5/MjM5NS5wbmc" alt="X" width="30" height="30"/>
+</a>
+<a href="https://leetcode.com/u/code_sky/" target="_blank">
+  <img src="https://imgs.search.brave.com/aMMN-NHgMgl5kie_BeVM_A9HoJNGneIbjjwt5lfbWiU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/YXBlLmNvbS93cC1j/b250ZW50L3BuZ19s/b2dvX3ZlY3Rvci9s/ZWV0Y29kZS1sb2dv/LXdoaXRlLW5vLXRl/eHQucG5n" alt="leetcode" width="30" height="30"/>
 </a>
 
 # 💻 Tech Stack:
@@ -58,6 +61,14 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 ![](https://github-contributor-stats.vercel.app/api?username=akash-shit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 🎯 LeetCode Stats
+
+<div align="center">  
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/code_sky?theme=dark&font=montserrat&radius=6)  
+
+</div> 
+ 
 ### ✍️ Random Dev Quote  
 
 <div align="center">
@@ -66,16 +77,8 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 </div>
 
-### 🎯 LeetCode Stats
-
-<div align="center">
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/code_sky?theme=dark&font=montserrat&radius=6)  
-
-</div>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=akash-shit&label=Profile%20views&color=0e75b6&style=flat" alt="akash-shit" /> 
+### 👀 Profile Visits
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=akash-shit&label=Visitors&color=blueviolet&style=plastic" alt="akash-shit" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

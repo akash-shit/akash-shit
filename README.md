@@ -1,6 +1,9 @@
 ![logo](https://github.com/akash-shit/akash-shit/blob/main/github%20banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Akash Shit</h1>
 <h3 align="center">A passionate Software Engineer || Web Devloper || Electronics Engineer || Problem Solver</h3>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 Email Me 👉 ✉️ **akashshit541@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -18,9 +21,20 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akash-shit&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akash-shit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-shit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=akash-shit&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=akash-shit&theme=dark&hide_border=false" /><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-shit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+    </td>
+    <td>
+      <img src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="400"/>
+    </td>
+  </tr>
+</table>
+
 
 ## 🏆 GitHub Achievements  
 
@@ -31,8 +45,10 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img align="right" alt="coding" width="400" src="https://uploads-ssl.webflow.com/61a8ba1505a38d795044d7de/61aae1b7a4ba59ee6d39af82_scroll-coding.gif">
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=akash-shit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:

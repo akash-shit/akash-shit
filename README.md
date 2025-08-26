@@ -57,9 +57,11 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 ### 🔝 Top Contributed Repo
 
-<img align="right" alt="coding" width="300" src="https://uploads-ssl.webflow.com/61a8ba1505a38d795044d7de/61aae1b7a4ba59ee6d39af82_scroll-coding.gif">
+<div align="center">  
 
 ![](https://github-contributor-stats.vercel.app/api?username=akash-shit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
 
 ### 🎯 LeetCode Stats
 

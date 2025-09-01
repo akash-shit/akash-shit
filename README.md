@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **akashshit541@gmail.com** For Collaboration/Project or Any
 But aspiring software engineer seeking opportunities to learn and grow in the field of software development , I start to grow problem solving skill day by day as different different way.**
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## ​🌐 accounts:
+## ​🌐 Connect with me:
 
 <a href="https://linkedin.com/in/akash-shit-680315289" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>

@@ -47,6 +47,9 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
   </tr>
 </table>
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=akash-shit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🏆 GitHub Achievements  
 

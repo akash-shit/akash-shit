@@ -51,13 +51,6 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 ![](https://github-profile-trophy.vercel.app/?username=akash-shit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🏆 GitHub Achievements  
-
-<p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw"/>
-</p>
-
 ### 🔝 Top Contributed Repo
 
 <div align="center">  

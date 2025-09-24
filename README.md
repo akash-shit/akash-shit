@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **akashshit541@gmail.com** For Collaboration/Project or Any
 But aspiring software engineer seeking opportunities to learn and grow in the field of software development , I start to grow problem solving skill day by day as different different way.**
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## ​🌐 Connect with me:
+# ​🌐 Connect with me:
 
 <a href="https://linkedin.com/in/akash-shit-680315289" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
@@ -47,11 +47,11 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
   </tr>
 </table>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=akash-shit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 
 <div align="center">  
 
@@ -59,7 +59,7 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 </div>
 
-### 🎯 LeetCode Stats
+# 🎯 LeetCode Stats
 
 <div align="center">  
   
@@ -67,7 +67,7 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 </div> 
  
-### ✍️ Random Dev Quote  
+# ✍️ Random Dev Quote  
 
 <div align="center">
   
@@ -75,7 +75,7 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 </div>
 
-### 👀 Profile Visits
+# 👀 Profile Visits
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=akash-shit&label=Visitors&color=blueviolet&style=plastic" alt="akash-shit" />
 </p>

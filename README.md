@@ -34,30 +34,33 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 # 📊 GitHub Stats:
 
-<table align="center">
-  <tr>
-    <td align="center" width="60%">
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <!-- LEFT: STATS -->
+    <td align="center" width="60%" style="border: none;">
       <img
         src="https://github-readme-stats.vercel.app/api?username=akash-shit&theme=dark&cache_seconds=1800"
-        height="170"
+        height="220"
       /><br/>
       <img
         src="https://nirzak-streak-stats.vercel.app/?user=akash-shit&theme=dark&cache_seconds=1800"
-        height="170"
+        height="220"
       /><br/>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-shit&layout=compact&theme=dark&cache_seconds=1800"
-        height="140"
+        height="180"
       />
     </td>
-    <td align="center" width="40%">
+    <!-- RIGHT: GIF -->
+    <td align="center" width="40%" style="border: none;">
       <img
         src="https://raw.githubusercontent.com/akash-shit/akash-shit/main/coder.gif"
-        width="320"
+        width="330"
       />
     </td>
   </tr>
 </table>
+
 
 # 🏆 GitHub Trophies
 

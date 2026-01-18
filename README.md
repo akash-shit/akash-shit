@@ -34,24 +34,13 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 # 📊 GitHub Stats:
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <!-- LEFT: STATS -->
-    <td align="center" width="60%" style="border: none;">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=akash-shit&theme=dark&cache_seconds=1800"
-        height="220"
-      /><br/>
-      <img
-        src="https://nirzak-streak-stats.vercel.app/?user=akash-shit&theme=dark&cache_seconds=1800"
-        height="220"
-      /><br/>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-shit&layout=compact&theme=dark&cache_seconds=1800"
-        height="180"
-      />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=akash-shit&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=akash-shit&theme=dark&hide_border=false" /><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-shit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     </td>
-    <!-- RIGHT: GIF -->
     <td align="center" width="40%" style="border: none;">
       <img
         src="https://raw.githubusercontent.com/akash-shit/akash-shit/main/coder.gif"
@@ -60,7 +49,6 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
     </td>
   </tr>
 </table>
-
 
 # 🏆 GitHub Trophies
 

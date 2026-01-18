@@ -42,7 +42,7 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-shit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     </td>
     <td>
-      <img src="https://whosarghya.netlify.app/content/giphy.gif" width="400"/>
+      <img src="https://raw.githubusercontent.com/akash-shit/akash-shit/main/coder.gif" width="400"/>
     </td>
   </tr>
 </table>

@@ -34,15 +34,27 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 # 📊 GitHub Stats:
 
-<table>
+<table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=akash-shit&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=akash-shit&theme=dark&hide_border=false" /><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-shit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+    <td align="center" width="60%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=akash-shit&theme=dark&cache_seconds=1800"
+        height="170"
+      /><br/>
+      <img
+        src="https://nirzak-streak-stats.vercel.app/?user=akash-shit&theme=dark&cache_seconds=1800"
+        height="170"
+      /><br/>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-shit&layout=compact&theme=dark&cache_seconds=1800"
+        height="140"
+      />
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/akash-shit/akash-shit/main/coder.gif" width="400"/>
+    <td align="center" width="40%">
+      <img
+        src="https://raw.githubusercontent.com/akash-shit/akash-shit/main/coder.gif"
+        width="320"
+      />
     </td>
   </tr>
 </table>

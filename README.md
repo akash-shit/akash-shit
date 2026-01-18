@@ -34,21 +34,18 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 # 📊 GitHub Stats:
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akash-shit&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=akash-shit&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-shit&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://whosarghya.netlify.app/content/giphy.gif" width="300" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=akash-shit&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=akash-shit&theme=dark&hide_border=false" /><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-shit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+    </td>
+    <td>
+      <img src="https://whosarghya.netlify.app/content/giphy.gif" width="400"/>
+    </td>
+  </tr>
+</table>
 
 # 🏆 GitHub Trophies
 

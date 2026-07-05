@@ -15,19 +15,19 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 <p>
 <a href="https://linkedin.com/in/akash-shit-680315289">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://x.com/akash31_2004">
-<img src="https://cdn.simpleicons.org/x/ffffff" height="40"/>
+<img src="https://cdn.simpleicons.org/x/ffffff" height="28"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/code_sky/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:akashshit541@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="30"/>
 </a>
 </p>
 

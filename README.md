@@ -36,25 +36,23 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=akash-shit&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=akash-shit&theme=dark&hide_border=false" /><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-shit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+    <td width="65%">
+      <img src="https://streak-stats.demolab.com?user=akash-shit&theme=tokyonight&hide_border=true" width="100%"/>
+      <br><br>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-shit&theme=tokyo-night&hide_border=true" width="100%"/>
     </td>
-    <td align="center" width="40%" style="border: none;">
-      <img
-        src="https://raw.githubusercontent.com/akash-shit/akash-shit/main/coder.gif"
-        width="330"
-      />
+    <td width="35%" align="center">
+      <img src="https://raw.githubusercontent.com/akash-shit/akash-shit/main/coder.gif" width="320"/>
     </td>
   </tr>
 </table>
 
-# 🏆 GitHub Trophies
+
+# 🏆 GitHub Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=akash-shit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo:
 
 <div align="center">  
 
@@ -62,7 +60,7 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 </div>
 
-# 🎯 LeetCode Stats
+# 🎯 LeetCode Stats:
 
 <div align="center">  
   
@@ -70,7 +68,7 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 </div> 
  
-# ✍️ Random Dev Quote  
+# ✍️ Random Dev Quote:
 
 <div align="center">
   
@@ -78,7 +76,7 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 </div>
 
-# 👀 Profile Visits
+# 👀 Profile Visits:
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=akash-shit&label=Visitors&color=blueviolet&style=plastic" alt="akash-shit" />
 </p>

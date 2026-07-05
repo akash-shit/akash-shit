@@ -13,26 +13,34 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 # ​🌐 Connect with me:
 
-<a href="https://linkedin.com/in/akash-shit-680315289" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+<p>
+<a href="https://linkedin.com/in/akash-shit-680315289">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://x.com/akash31_2004" target="_blank">
-  <img src="https://imgs.search.brave.com/_47QEAi8cqOAPmMDCV4XDJ0hb45th2neFe0TrItGulg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ5LzMvdHdpdHRl/ci14LWxvZ28tcG5n/X3NlZWtsb2dvLTQ5/MjM5NS5wbmc" alt="X" width="30" height="30"/>
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/akash31_2004">
+<img src="https://cdn.simpleicons.org/x/ffffff" height="40"/>
 </a>
-<a href="https://leetcode.com/u/code_sky/" target="_blank">
-  <img src="https://imgs.search.brave.com/aMMN-NHgMgl5kie_BeVM_A9HoJNGneIbjjwt5lfbWiU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/YXBlLmNvbS93cC1j/b250ZW50L3BuZ19s/b2dvX3ZlY3Rvci9s/ZWV0Y29kZS1sb2dv/LXdoaXRlLW5vLXRl/eHQucG5n" alt="leetcode" width="30" height="30"/>
+&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/code_sky/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:akashshit541@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
+</a>
+</p>
 
-# 💻 Tech Stack & Tools
-<div align="center">
+# 💻 Tech Stack & Tools:
+
+<div  align="center">
 <table width="100%">
 <tr>
-
 <td align="center" width="50%">
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript&theme=dark&perline=5"/>
 
 </td>
 
@@ -52,7 +60,7 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark&perline=3"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark&perline=4"/>
 
 </td>
 
@@ -69,6 +77,8 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 </table>
 
 </div>
+
+
 
 # 📊 GitHub Analytics:
 

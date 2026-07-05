@@ -29,6 +29,10 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 <a href="mailto:akashshit541@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/aakaash.xo">
+<img src="https://cdn.simpleicons.org/instagram/EA4335" height="30"/>
+</a>
 </p>
 
 # 💻 Tech Stack & Tools:

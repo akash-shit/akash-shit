@@ -70,31 +70,30 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 </div>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Analytics:
 
-<table>
-  <tr>
-    <td width="65%">
-      <img src="https://streak-stats.demolab.com?user=akash-shit&theme=tokyonight&hide_border=true" width="100%"/>
-      <br><br>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-shit&theme=tokyo-night&hide_border=true" width="100%"/>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://raw.githubusercontent.com/akash-shit/akash-shit/main/coder.gif" width="320"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+<!-- Stats Cards Row -->
+<p>
+  <a href="https://github.com/akash-shit">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akash-shit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764abc&text_color=c9d1d9&custom_title=Akash%20Shit's%20GitHub%20Stats" alt="GitHub Stats"/>
+  </a>
 
-# 🏆 GitHub Trophies:
+  <a href="https://github.com/akash-shit">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=akash-shit&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764abc&currStreakLabel=667eea&sideLabels=c9d1d9&dates=586069" alt="GitHub Streak"/>
+  </a>
+</p>
 
-![](https://github-profile-trophy.vercel.app/?username=akash-shit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Languages & Profile Summary -->
+<p>
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akash-shit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
 
-# 🔝 Top Contributed Repo:
+  <img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-shit&theme=tokyonight" alt="Profile Summary"/>
+</p>
 
-<div align="center">  
-
-![](https://github-contributor-stats.vercel.app/api?username=akash-shit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Activity Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=akash-shit&bg_color=0d1117&color=667eea&line=764abc&point=6B8DD6&area=true&area_color=667eea&hide_border=true&custom_title=Akash%20Shit's%20Contribution%20Graph" alt="Activity Graph"/>
 
 </div>
 

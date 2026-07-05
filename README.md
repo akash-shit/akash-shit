@@ -104,9 +104,17 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 
 <!-- Activity Graph -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=akash-shit&bg_color=0d1117&color=667eea&line=764abc&point=6B8DD6&area=true&area_color=667eea&hide_border=true&custom_title=Akash%20Shit's%20Contribution%20Graph" alt="Activity Graph"/>
-
 </div>
-
+<div align="center">
+  <!-- Snake Game Repo View -->
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <!-- Github Widget Box -->
+<a href="https://github.com/akash-shit">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=akash-shit&data=followers,repositories,stars,commits&theme=nautilus"
+alt="Akash Shit's GitHub Widget"/>
+</a>
+</div>
+  
 # 🎯 LeetCode Stats:
 
 <div align="center">  

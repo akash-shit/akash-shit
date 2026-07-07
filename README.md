@@ -33,6 +33,10 @@ But aspiring software engineer seeking opportunities to learn and grow in the fi
 <a href="https://www.instagram.com/aakaash.xo">
 <img src="https://cdn.simpleicons.org/instagram/EA4335" height="30"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://codolio.com/profile/code_sky">
+<img src="https://codolio.com/codolio_assets/codolio.svg" height="30"/>
+</a>
 </p>
 
 # 💻 Tech Stack & Tools:
